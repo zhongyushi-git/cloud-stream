@@ -23,7 +23,7 @@ spring:
       # 服务的整合处理
       bindings:
         # 这个名字是一个通道的名称
-        input:
+        output:
           # 表示要使用的exchange名称定义
           destination: studyExchange
           # 设置消息类型，本次为json，文本则设为text/plain

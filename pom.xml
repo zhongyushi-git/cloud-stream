@@ -12,7 +12,6 @@
         <module>cloud-eureka-server7001</module>
         <module>stream-rabbitmq-provider8801</module>
         <module>stream-rabbitmq-consumer8803</module>
-        <module>stream-rabbitmq-consumer8802</module>
         <module>stream-rabbitmq-consumer8804</module>
     </modules>
 
